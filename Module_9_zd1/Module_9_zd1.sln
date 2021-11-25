@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_9_zd1", "Module_9_zd1.csproj", "{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_9_zd2", "..\Module_9_zd2\Module_9_zd2.csproj", "{B498BAFF-1666-47DF-A637-E00A171B6DAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZD", "ZD", "{14905E4F-5CAC-483C-83A8-BFF5BDC5D276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B498BAFF-1666-47DF-A637-E00A171B6DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B498BAFF-1666-47DF-A637-E00A171B6DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B498BAFF-1666-47DF-A637-E00A171B6DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B498BAFF-1666-47DF-A637-E00A171B6DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDAC50BF-5EA7-49F7-8DC1-14B4D3BC03AF} = {14905E4F-5CAC-483C-83A8-BFF5BDC5D276}
+		{B498BAFF-1666-47DF-A637-E00A171B6DAB} = {14905E4F-5CAC-483C-83A8-BFF5BDC5D276}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A14537-E74B-4F05-AD77-8863C00BB896}
+	EndGlobalSection
+EndGlobal

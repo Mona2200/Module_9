@@ -1,0 +1,14 @@
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.exe
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.deps.json
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.runtimeconfig.json
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.runtimeconfig.dev.json
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.dll
+C:\Users\Алёна\source\repos\Module_9_zd1\bin\Debug\netcoreapp3.1\Module_9_zd1.pdb
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.csproj.AssemblyReference.cache
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.AssemblyInfoInputs.cache
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.AssemblyInfo.cs
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.dll
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.pdb
+C:\Users\Алёна\source\repos\Module_9_zd1\obj\Debug\netcoreapp3.1\Module_9_zd1.genruntimeconfig.cache
